@@ -96,3 +96,6 @@
 
 !SLIDE
 <img src="images/zomg.jpg" />
+
+!SLIDE full wrong
+# I hate Ruby!
